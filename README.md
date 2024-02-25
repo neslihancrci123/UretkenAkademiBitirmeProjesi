@@ -1,5 +1,8 @@
 # React + Vite
-
+QR KOD İLE OKUTMAK VE WEB SİTESİNE GİRİŞ İÇİN AŞAĞIDAKİ LİNKE TIKLAYINIZ.
+https://www.canva.com/design/DAF9s3GYg38/_dYvniWdD9tFy2LBBmtU7A/view?utm_content=DAF9s3GYg38&utm_campaign=designshare&utm_medium=link&utm_source=editor
+KULLANICI ADI: user
+ŞİFRE: password yazarak ilerleyebilirsiniz.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -14,3 +17,4 @@ Bu proje, yukarıda belirtilen iki kişi tarafından, yüz yüze işbirliğiyle 
 (Not: Bu proje öncelikle pilot kütüphanelerde başlatılarak yaygınlaştırılabilir)
 (Not: Açıkyeşil data setleri arasında Kütüphaneler ile ilgili data mevcut olmadığı için API kullanılmamıştır, bilgiler tarafımızdan eklenmiştir.)
 (Not: Her kütüphanede bulunan her masaya konulacak 	QR kod sayesinde we siteye kolayca ulaşım sağlanarak doluluk ve boşluk durumu kontrol edilebilinecektir.)
+
